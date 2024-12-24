@@ -93,3 +93,7 @@
 // console.log(userInfo = [25,"Jane"])
 
 // ====================================================================================================
+
+
+// Copyright (c) by Nodirbek Inc. All Rights Reserved.
+// commands         tsc init,     tsc -watch
